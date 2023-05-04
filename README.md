@@ -16,7 +16,7 @@
 <p>• The UI follows the neumorphism design style, with spectacular animations, whilst also keeping user experience (UX) standards and guidelines in mind.</p>
 
 <br>
-<div align = "center" style = "display: flex; flex-direction: row; justify-content: center;">
+<div align = "center" style = "display: flex; flex-direction: row; justify-content: center;align-items:center">
   <img height = "600vh" width = "auto" src = "https://github.com/ranveerchaudhary/Mercurial/blob/main/gar/Wknd.png">
   &nbsp
   &nbsp
