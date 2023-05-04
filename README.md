@@ -20,7 +20,7 @@
   <img height = "600vh" width = "auto" src = "https://github.com/ranveerchaudhary/Mercurial/blob/main/gar/Wknd.png">
   &nbsp
   &nbsp
-  <img height = "600vh" width = "auto" style = "margin-right:50vw;margin-left:50vw" src = "https://github.com/ranveerchaudhary/Mercurial/blob/main/gar/DrakeTF.png">
+  <img height = "600vh" width = "auto" src = "https://github.com/ranveerchaudhary/Mercurial/blob/main/gar/DrakeTF.png">
   &nbsp
   &nbsp
   <img height = "600vh" width = "auto" src = "https://github.com/ranveerchaudhary/Mercurial/blob/main/gar/GNoLimit.png">
