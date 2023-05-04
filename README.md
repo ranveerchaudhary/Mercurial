@@ -17,13 +17,15 @@
 
 <br>
 <div align = "center" style = "display: flex; flex-direction: row; justify-content: center; align-items: center;">
-  <img height = "600vh" width = "auto" src = "https://github.com/ranveerchaudhary/Mercurial/blob/main/gar/Wknd.png">
+  <img height = "650vh" width = "auto" src = "https://github.com/ranveerchaudhary/Mercurial/blob/main/gar/Wknd.png">
   &nbsp
   &nbsp
-  <img height = "600vh" width = "auto" src = "https://github.com/ranveerchaudhary/Mercurial/blob/main/gar/DrakeTF.png">
+  <img height = "650vh" width = "auto" src = "https://github.com/ranveerchaudhary/Mercurial/blob/main/gar/DrakeTF.png">
   &nbsp
   &nbsp
-  <img height = "600vh" width = "auto" src = "https://github.com/ranveerchaudhary/Mercurial/blob/main/gar/GNoLimit.png">
+  <img height = "650vh" width = "auto" src = "https://github.com/ranveerchaudhary/Mercurial/blob/main/gar/GNoLimit.png">
+  &nbsp
+  &nbsp
 </div>
 <br>
 
