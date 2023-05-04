@@ -41,6 +41,12 @@
       </li>
     </ul>
     </li>
+    <li>
+      <h3>Contributions</h3>
+    </li>
+    <li>
+      <h3>Contact</h3>
+    </li>
   </ul>
 </div>
 
@@ -75,3 +81,32 @@
 
 ### 3. Recommendations
 <p>• Inorder for <strong>Mercurial</strong> to recommend tracks, the user must right swipe atleast 3 songs. The purpose of doing this is to enable the algorithm to capture the pattern</p>
+
+##
+
+<br>
+
+## Contributions
+
+Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+
+If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
+Don't forget to give the project a star! Thanks again!
+
+1. Fork the Project
+2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the Branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
+
+##
+
+<br>
+
+## Contact
+
+Email: ranveerjerry@gmail.com
+
+Portfolio Website: [https://ranveerchaudhary.github.io](https://ranveerchaudhary.github.io)
+
+Linkedin Profile: [https://www.linkedin.com/in/ranveer-chaudhary-785538166/](https://www.linkedin.com/in/ranveer-chaudhary-785538166/)
