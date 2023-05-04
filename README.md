@@ -15,9 +15,18 @@
 
 <p>• The UI follows the neumorphism design style, with spectacular animations, whilst also keeping user experience (UX) standards and guidelines in mind.</p>
 
-<div>
-  <img src = "">
+<br>
+<div align = "center" style = "display: flex; flex-direction: row; justify-content: center;">
+  <img height = "600vh" width = "auto" src = "https://github.com/ranveerchaudhary/Mercurial/blob/main/gar/Wknd.png">
+  &nbsp
+  &nbsp
+  <img height = "600vh" width = "auto" style = "margin-right:50vw;margin-left:50vw" src = "https://github.com/ranveerchaudhary/Mercurial/blob/main/gar/DrakeTF.png">
+  &nbsp
+  &nbsp
+  <img height = "600vh" width = "auto" src = "https://github.com/ranveerchaudhary/Mercurial/blob/main/gar/GNoLimit.png">
 </div>
+<br>
+
 
 <p>• Taking notes from various applications, the creator finally settled on a swipe based Mechanism. Left swipe for skipping the track and right swipe for liking the track.</p>
 
