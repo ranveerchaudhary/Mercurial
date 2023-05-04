@@ -13,17 +13,17 @@
 
 ### 2. The UI
 
-<p>• The UI follows the neumorphism design style, with spectacular animations, whilst also keeping user experience (UX) standards and guidelines in mind.</p>
+<p>• Mercurial's UI follows the neumorphism design style, with spectacular animations, whilst also keeping user experience (UX) standards and guidelines in mind.</p>
 
 <br>
 <div align = "center" style = "display: flex; flex-direction: row; justify-content: center; align-items: center;">
   <img height = "650vh" width = "auto" src = "https://github.com/ranveerchaudhary/Mercurial/blob/main/gar/Wknd.png">
   &nbsp
   &nbsp
-  <img height = "650vh" width = "auto" src = "https://github.com/ranveerchaudhary/Mercurial/blob/main/gar/DrakeTF.png">
-  &nbsp
-  &nbsp
   <img height = "650vh" width = "auto" src = "https://github.com/ranveerchaudhary/Mercurial/blob/main/gar/GNoLimit.png">
+  &nbsp
+  &nbsp
+  <img height = "650vh" width = "auto" src = "https://github.com/ranveerchaudhary/Mercurial/blob/main/gar/ACDC.png">
   &nbsp
   &nbsp
 </div>
