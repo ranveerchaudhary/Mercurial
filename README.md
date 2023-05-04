@@ -27,6 +27,20 @@
       </li>
     </ul>
     </li>
+    <li>
+      <h3>Mechanism</h3>
+      <ul>
+      <li>
+        <h4>Algorithm</h4>
+      </li>
+      <li>
+        <h4>The Engine</h4>
+      </li>
+      <li>
+        <h4>Deployment</h4>
+      </li>
+    </ul>
+    </li>
   </ul>
 </div>
 
