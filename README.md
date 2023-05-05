@@ -123,7 +123,11 @@
   <li><a href = "https://github.com/john-doherty/swiped-events">Swipe Events Framework</a></li>
 </ul>
 
-<p>• The application uses HTML, JavaScript, and CSS for the base of a spectacular UI. <strong>Mercurial</strong> also incorporates several other popular libraries like Jquery, Anime.js and the Puppertino framework. Jquery in this application is used for some simple animations and communicating with flask. Anime.js is a powerful JavaScript animation library that allows you to create complex animations with ease. The Pupertino framework is a design system that incorporates neomorphism, which is a modern design trend that combines elements of skeuomorphism and flat design. Another framework that has been used in this project is the scroll lock for disabling the overflow. For detecting user swipe gestures <strong>Mercurial</strong> integrates the swiped events framework.</p>
+<p>• The application uses HTML, JavaScript, and CSS for the base of a spectacular UI. <strong>Mercurial</strong> also incorporates several other popular libraries like Jquery, Anime.js and the Puppertino framework. Jquery in this application is used for some simple animations and communicating with flask. Anime.js is a powerful JavaScript animation library that allows you to create complex animations with ease. The Pupertino framework is a design system that incorporates neomorphism, which is a modern design trend that combines elements of skeuomorphism and flat design. Another framework that has been used in this project is the scroll lock for disabling the overflow. For detecting user swipe gestures <strong>Mercurial</strong> integrates the swiped events framework. The operations to get tracks follows:- 
+
+1. Javascript requests a track 
+2. Python responds and sends a random track ( track name and artist(s) ) from the dataset 
+3. Javascript Uses the <a href = "https://www.discogs.com/developers">Discogs API</a> to fetch the track art.</p>
 
 <br>
 
