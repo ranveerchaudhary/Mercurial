@@ -156,7 +156,7 @@ Don't forget to give the project a star! Thanks again!
 
 ## Contact :mailbox_with_mail:
 
-Email: ranveerjerry@gmail.com
+Email: ranveerchaudhary1000@gmail.com
 
 Portfolio Website: [https://ranveerchaudhary.github.io](https://ranveerchaudhary.github.io)
 
