@@ -53,7 +53,7 @@
       <h3>Contributions :anchor:</h3>
     </li>
     <li>
-      <h3>Contact :mailbox_with_mail:</h3>
+      <h3><a href = "contact">Contact :mailbox_with_mail:<a/></h3>
     </li>
   </ul>
 </div>
@@ -138,7 +138,7 @@
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![Jinja](https://img.shields.io/badge/jinja-white.svg?style=for-the-badge&logo=jinja&logoColor=black)
 
-<p>• For the deployment part <strong>Mercurial</strong> uses <a href = "https://flask.palletsprojects.com/en/2.3.x/">"Flask"</a> which is a popular Python web framework that makes it easy to create web applications. Flask is based on Werkzeug WSGI toolkit and Jinja2 template engine. Using the "GET" & "POST" methods Python can communicate back and forth with Javascript.<p/>
+<p>• For the deployment part <strong>Mercurial</strong> uses <a href = "https://flask.palletsprojects.com/en/2.3.x/">Flask</a> which is a popular Python web framework that makes it easy to create web applications. Flask is based on Werkzeug WSGI toolkit and Jinja2 template engine. Using the "GET" & "POST" methods Python can communicate back and forth with Javascript.<p/>
 
 ##
 
@@ -161,7 +161,7 @@ Don't forget to give the project a star! Thanks again!
 
 <br>
 
-## Contact :mailbox_with_mail:
+<h2 id = "contact">Contact :mailbox_with_mail:</h2>
 
 Email: ranveerchaudhary1000@gmail.com
 
