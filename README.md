@@ -102,6 +102,7 @@
 <h2 id = "mechanism">The Mechanism :gear:<h2>
 
 <h3 id = "algorithm">1. Algorithm :brain:</h3>
+
 ![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)
 ![Kmean++](https://img.shields.io/badge/Weights_&_Biases-FFBE00?style=for-the-badge&logo=WeightsAndBiases&logoColor=white)
 <p>• <strong>Mercurial</strong> uses the Kmeans++ machine learning algorithm to cluster data points into groups based on their similarity. The algorithm is an improvement over the original K-means algorithm as it selects the initial centroids in a more intelligent way. The algorithm starts by selecting one random data point as the first centroid and then selects the next centroid from the remaining data points based on their distance from the first centroid. This process continues until all centroids have been selected. The result is a set of centroids that are well-spaced, which in turn gives the user those marvelous recommendations. The dataset used in this project is the skimmed version (Popular Tracks Only) of the Spotify dataset available on <a href = "https://www.kaggle.com/datasets/mrmorj/dataset-of-songs-in-spotify">Kaggle</a>.<p>
@@ -109,6 +110,7 @@
 <br>
 
 <h3 id = "engine">2. The Engine :mechanical_arm:</h3>
+
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -134,6 +136,7 @@
 <br>
 
 <h3 id = "deployment">Deployment :eyes:</h3>
+
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![Jinja](https://img.shields.io/badge/jinja-white.svg?style=for-the-badge&logo=jinja&logoColor=black)
