@@ -1,0 +1,298 @@
+@font-face{
+    font-family: rbr;
+    src: url("robotovariable.ttf");
+}
+
+section{
+    visibility: hidden;
+}
+
+body{
+    overflow: hidden !important;
+    background-color: rgb(0, 0, 0);
+}
+
+#main{
+    display:flex;
+    flex-direction: column;
+    overflow: hidden !important;
+    scrollbar-width: none;  
+    justify-content: center !important;
+    align-items: center;
+    margin: -1vh;
+    height: 100vh;
+    width: 100vw;
+}
+
+#bgimg{
+    position: absolute;
+    top: -5vh;
+    left: -5vw;
+    opacity: 1;
+    height: 150vh;
+    width: 150vw;
+    filter: blur(15vw) brightness(75%);
+}
+
+#popup{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #000000;
+    height: 6vh;
+    width: 80vw;
+    border-radius: 4vh;
+    box-shadow: 0vh 5vh 8vh #292929c3;
+    position:absolute;
+    top: -50vh;
+    color: white;
+}
+
+#popuptext{
+    font-family: rbr;
+    font-size: 1.5vh;
+    font-weight: 300;
+    letter-spacing: 0.5vw;
+
+}
+#fsection{
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    position: absolute;
+    height: 35vh;
+    width: 100vw;
+    top: 10vh;
+}
+
+#base{
+    overflow: hidden !important;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    background-color: #ffffff3a;
+    height: 60vh;
+    width: 82vw;
+    border-radius: 1vh;
+    box-shadow: 0vh 5vh 10vh #1212129d;
+    position: absolute;
+    left: 0vw;
+    opacity: 1;
+    left: 9.3vw
+}
+
+#trackartdiv{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    width: 80vw;
+    height: 40vh;
+    position:absolute;
+    top: 0vh;
+}
+
+#trackart{
+    height: 75vw;
+    width: 75vw;
+    border-radius: 1vh;
+    margin-top: 5vh;
+    box-shadow: 0vh 2vh 5vh #1212129d;
+}
+
+#trackdetails{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    height: 10vh;
+    width: 74vw;
+    margin-top: 45vh;
+    background-color: rgb(0, 0, 0, 0);
+    justify-content: space-around
+}
+
+#trackname{
+    font-family: rbr;
+    font-size: 2.75vh;
+    font-weight: 550;
+    letter-spacing: 0.4vw;
+    color: white;
+    position: relative;
+    top: 3vh;
+
+}
+
+#artists{
+    font-family: rbr;
+    font-size: 2vh;
+    font-weight: 100;
+    letter-spacing: 0.4vw;
+    color: white;
+    position: relative;
+    bottom: 1vh;
+}
+
+#ssection{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    top: 84vh;
+    left: 0vw;
+}
+
+#Recommendbutton{
+    background-color: #d9d9d95f;
+    color: white;
+    font-family: rbr;
+    font-size: 2vh;
+    font-weight: 350;
+    letter-spacing: 0.4vw;
+    height: 6vh;
+    width: 82vw;
+    border-style: solid;
+    border-width: 0vw;
+    border-radius: 1.25vh;
+    box-shadow: 0vh 7vh 15vh #1212129d;
+    position: absolute;
+    left: 9.3vw;
+}
+
+#blank1{
+    margin: -1vh;
+    background-color: #000000;
+    height: 102vh;
+    width: 102vw;
+    position: absolute;
+    top: 0vh;
+    overflow: hidden;
+    pointer-events: none;
+    cursor: none;    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#loading{
+    filter: invert(100);
+    height: 15vw;
+    margin-left: 1vw;
+    cursor: pointer;
+    pointer-events: all;
+    outline: none;
+}
+
+#recobase{
+    position: absolute;
+    top: 10vh;
+    left: 10vw;
+    background-color: rgba(31, 31, 31, 0);
+    height: 80vh;
+    width: 82vw;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: center;
+    opacity: 0;
+    visibility: hidden;
+}
+
+.sepline{
+    height: 0.5vw;
+    width: 70vw;
+    background-color: white;
+    margin-left: 5vw;
+}
+
+.recotextn{
+    font-family: rbr;
+    font-weight: 600;
+    font-size: 2.6vh;
+    color: white;
+}
+
+.recotexta{
+    font-family: rbr;
+    font-weight: 100;
+    font-size: 2.6vh;
+    color: white;
+}
+
+#song1{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    margin-left: 10vw;
+}
+
+#recotext11{
+    margin-bottom: -1vh;
+}
+
+#song2{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    margin-left: 10vw;
+}
+
+#recotext21{
+    margin-bottom: -1vh;
+}
+
+#song3{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    margin-left: 10vw;
+}
+
+#recotext31{
+    margin-bottom: -1vh;
+}
+
+#song4{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    margin-left: 10vw;
+}
+
+#recotext41{
+    margin-bottom: -1vh;
+}
+
+#song5{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    margin-left: 10vw;
+}
+
+#recotext51{
+    margin-bottom: -1vh;
+}
+
+@media not screen and (min-width: 370px) and (max-width: 415px) and (min-height: 810px) and (max-height: 916px) {
+    body{
+        visibility: hidden;
+    }
+
+    section{
+        visibility: visible;
+        background-color: black;
+        text-align: center;
+    }
+
+    #devicewarning{
+        position: absolute;
+        position: absolute;
+        top: 45vh;
+        font-size: 3vh;
+        font-family: rbr;
+        color: white;
+        width: 100vw;;
+    }
+}
