@@ -134,11 +134,11 @@
 <br>
 
 ### Deployment :eyes:
-<p>• For the deployment part <strong>Mercurial</strong> uses <a href = "https://flask.palletsprojects.com/en/2.3.x/">"Flask"</a> which is a popular Python web framework that makes it easy to create web applications. Flask is based on Werkzeug WSGI toolkit and Jinja2 template engine. Using the "GET" & "POST" methods Python can communicate back and forth with Javascript.<p/>
-
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![Jinja](https://img.shields.io/badge/jinja-white.svg?style=for-the-badge&logo=jinja&logoColor=black)
+
+<p>• For the deployment part <strong>Mercurial</strong> uses <a href = "https://flask.palletsprojects.com/en/2.3.x/">"Flask"</a> which is a popular Python web framework that makes it easy to create web applications. Flask is based on Werkzeug WSGI toolkit and Jinja2 template engine. Using the "GET" & "POST" methods Python can communicate back and forth with Javascript.<p/>
 
 ##
 
