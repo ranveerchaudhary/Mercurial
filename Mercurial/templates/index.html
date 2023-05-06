@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel = "stylesheet" href = "{{url_for('static', filename = 'style.css')}}">
+        <link rel = "stylesheet" href = "{{url_for('static', filename = '/Puppertino-master/dist/css/newfull.css')}}">
+        <script src = "https://ajax.googleapis.com/ajax/libs/jquery/3.6.4/jquery.min.js"></script>
+        <script src = "https://cdnjs.cloudflare.com/ajax/libs/animejs/3.2.1/anime.min.js" integrity="sha512-z4OUqw38qNLpn1libAN9BsoDx6nbNFio5lA6CuTp9NlK83b89hgyCVq+N5FdBJptINztxn1Z3SaKSKUS5UP60Q==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+        <script src = "{{url_for('static', filename = '/swiped-events-master/src/swiped-events.js')}}"></script>
+        <script src = "{{url_for('static', filename = '/scroll-lock-master/dist/scroll-lock.min.js')}}"></script>
+        <title>Mercurial</title>
+    </head>
+    <body>
+        <img id = "bgimg" src = "{{url_for('static', filename = 'image.png')}}">
+        <div id = "main">
+            <div id = "popup">
+                <p id = "popuptext">Please Right Swipe Atleast 3 Songs</p>
+            </div>
+            <div id = "fsection">
+                <div id = "base">
+                    <div id = "trackartdiv">
+                        <img id = "trackart" src = "{{url_for('static', filename = 'image.png')}}">
+                    </div>
+                    <div id = "trackdetails">
+                        <p id = "trackname">Track</p>
+                        <p id = "artists">Artist</p>
+                    </div>
+                    
+                </div>
+            </div>
+            <div id = "ssection">
+                <input id = "Recommendbutton" type = "button" value = "Recommend"> 
+            </div>
+        </div>
+        <div id = "blank1">
+            <img src = "{{url_for('static', filename = 'logo.png')}}" id = "loading">
+        </div>
+        <div id = "recobase">
+
+            <div id = "song1">
+                <p class = "recotextn" id = "recotext11">Unavailable</p>
+                <p class = "recotexta" id = "recotext12">Unavailable</p>
+            </div>
+            <div class = "sepline" id = "line1"></div>
+
+            <div id = "song2">
+                <p class = "recotextn" id = "recotext21">Unavailable</p>
+                <p class = "recotexta" id = "recotext22">Unavailable</p>
+            </div>
+            <div class = "sepline" id = "line2"></div>
+
+            <div id = "song3">
+                <p class = "recotextn" id = "recotext31">Unavailable</p>
+                <p class = "recotexta" id = "recotext32">Unavailable</p>
+            </div>
+            <div class = "sepline" id = "line3"></div>
+
+            <div id = "song4">
+                <p class = "recotextn" id = "recotext41">Unavailable</p>
+                <p class = "recotexta" id = "recotext42">Unavailable</p>
+            </div>
+            <div class = "sepline" id = "line4"></div>
+
+            <div id = "song5">
+                <p class = "recotextn" id = "recotext51">Unavailable</p>
+                <p class = "recotexta" id = "recotext52">Unavailable</p>
+            </div>
+
+        </div>
+        
+    </body>
+    <section><p id = "devicewarning">This device is not compatible</p></section>
+    <script src = "{{url_for('static', filename = 'dynamic.js')}}"></script>
+</html>
