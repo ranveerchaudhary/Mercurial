@@ -22,35 +22,35 @@
 <div>
   <ul>
     <li>
-    <h3>The Basics :page_facing_up:</h3>
+    <h3><a href = "#basics">The Basics :page_facing_up:</a></h3>
     <ul>
       <li>
-        <h4>History :thought_balloon:</h4>
+        <h4><a href = "#history">History :thought_balloon:</a></h4>
       </li>
       <li>
-        <h4>The UI :iphone:</h4>
+        <h4><a href = "#ui">The UI :iphone:</a></h4>
       </li>
       <li>
-        <h4>Recommendations :receipt:</h4>
+        <h4><a href = "#recommendations">Recommendations :receipt:</a></h4>
       </li>
     </ul>
     </li>
     <li>
-      <h3>The Mechanism :gear:</h3>
+      <h3><a href = "#mechanism">The Mechanism :gear:</a></h3>
       <ul>
       <li>
-        <h4>Algorithm :brain:</h4>
+        <h4><a href = "#algorithm">Algorithm :brain:</a></h4>
       </li>
       <li>
-        <h4>The Engine :mechanical_arm:	</h4>
+        <h4><a href = "#engine">The Engine :mechanical_arm:</a></h4>
       </li>
       <li>
-        <h4>Deployment :eyes:</h4>
+        <h4><a href = "#deployment">Deployment :eyes:</a></h4>
       </li>
     </ul>
     </li>
     <li>
-      <h3>Contributions :anchor:</h3>
+      <h3><a href = "#contributions">Contributions :anchor:</a></h3>
     </li>
     <li>
       <h3><a href = "#contact">Contact :mailbox_with_mail:<a/></h3>
@@ -62,14 +62,14 @@
 
 <br>
 
-## The Basics :page_facing_up:
+<h2 id = "basics">The Basics :page_facing_up:</h2>
 
-### 1. History :thought_balloon:
+<h3 id = "history">1. History :thought_balloon:</h3>
 <p>• <strong>Mercurial</strong> was created in 2022 after the creator Ranveer Chaudhary found it difficult to discover new music that matched his taste. He tried various music recommendation apps but none of them seemed to work for him, frustrated with the lack of options, he decided to create his own music recommendation app that would help people like him find new music based on the vibe they seek. </p>
 
 <br>
 
-### 2. The UI :iphone:
+<h3 id = "ui">2. The UI :iphone:</h3>
 
 <p>• Mercurial's UI follows the neumorphism design style, with spectacular animations, whilst also keeping user experience (UX) standards and guidelines in mind.</p>
 
@@ -92,23 +92,23 @@
 
 <br>
 
-### 3. Recommendations :receipt:
+<h3 id = "recommendations">3. Recommendations :receipt:</h3>
 <p>• Inorder for <strong>Mercurial</strong> to recommend tracks, the user must right swipe atleast 3 songs. The purpose of doing this is to enable the algorithm to capture the pattern. <strong>Mercurial</strong> Recommends 5 tracks based upon the user's vibe.</p>
 
 ##
 
 <br>
 
-## The Mechanism :gear:
+<h2 id = "mechanism">The Mechanism :gear:<h2>
 
-### 1. Algorithm :brain:
+<h3 id = "algorithm">1. Algorithm :brain:</h3>
 ![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)
 ![Kmean++](https://img.shields.io/badge/Weights_&_Biases-FFBE00?style=for-the-badge&logo=WeightsAndBiases&logoColor=white)
 <p>• <strong>Mercurial</strong> uses the Kmeans++ machine learning algorithm to cluster data points into groups based on their similarity. The algorithm is an improvement over the original K-means algorithm as it selects the initial centroids in a more intelligent way. The algorithm starts by selecting one random data point as the first centroid and then selects the next centroid from the remaining data points based on their distance from the first centroid. This process continues until all centroids have been selected. The result is a set of centroids that are well-spaced, which in turn gives the user those marvelous recommendations. The dataset used in this project is the skimmed version (Popular Tracks Only) of the Spotify dataset available on <a href = "https://www.kaggle.com/datasets/mrmorj/dataset-of-songs-in-spotify">Kaggle</a>.<p>
   
 <br>
 
-### 2. The Engine :mechanical_arm:
+<h3 id = "engine">2. The Engine :mechanical_arm:</h3>
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -133,7 +133,7 @@
 
 <br>
 
-### Deployment :eyes:
+<h3 id = "deployment">Deployment :eyes:</h3>
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![Jinja](https://img.shields.io/badge/jinja-white.svg?style=for-the-badge&logo=jinja&logoColor=black)
@@ -144,7 +144,7 @@
 
 <br>
 
-## Contributions :anchor:
+<h2 id = "contributions">Contributions :anchor:</h2>
 
 Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
