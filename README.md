@@ -104,16 +104,16 @@
 ### 1. Algorithm :brain:
 ![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)
 ![Kmean++](https://img.shields.io/badge/Weights_&_Biases-FFBE00?style=for-the-badge&logo=WeightsAndBiases&logoColor=white)
-<p>• <strong>Mercurial</strong> uses the Kmeans++ machine learning algorithm to cluster data points into groups based on their similarity. The algorithm is an improvement over the original K-means algorithm as it selects the initial centroids in a more intelligent way. The algorithm starts by selecting one random data point as the first centroid and then selects the next centroid from the remaining data points based on their distance from the first centroid. This process continues until all centroids have been selected. The result is a set of centroids that are well-spaced, which in turn gives the user those marvelous recommendations. The dataset used in this project is the skimmed version (Popular Tracks Only) of the spotify dataset available on <a href = "https://www.kaggle.com/datasets/mrmorj/dataset-of-songs-in-spotify">Kaggle</a>.<p>
+<p>• <strong>Mercurial</strong> uses the Kmeans++ machine learning algorithm to cluster data points into groups based on their similarity. The algorithm is an improvement over the original K-means algorithm as it selects the initial centroids in a more intelligent way. The algorithm starts by selecting one random data point as the first centroid and then selects the next centroid from the remaining data points based on their distance from the first centroid. This process continues until all centroids have been selected. The result is a set of centroids that are well-spaced, which in turn gives the user those marvelous recommendations. The dataset used in this project is the skimmed version (Popular Tracks Only) of the Spotify dataset available on <a href = "https://www.kaggle.com/datasets/mrmorj/dataset-of-songs-in-spotify">Kaggle</a>.<p>
   
 <br>
 
 ### 2. The Engine :mechanical_arm:
-![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
   
 <ul>
   <li><a href = "https://github.com/juliangarnier/anime">Anime.js Library</a></li>
@@ -125,17 +125,24 @@
 
 <p>• The application uses HTML, JavaScript, and CSS for the base of a spectacular UI. <strong>Mercurial</strong> also incorporates several other popular libraries like Jquery, Anime.js and the Puppertino framework. Jquery in this application is used for some simple animations and communicating with flask. Anime.js is a powerful JavaScript animation library that allows you to create complex animations with ease. The Pupertino framework is a design system that incorporates neomorphism, which is a modern design trend that combines elements of skeuomorphism and flat design. Another framework that has been used in this project is the scroll lock for disabling the overflow. For detecting user swipe gestures <strong>Mercurial</strong> integrates the swiped events framework. The operations to get tracks follows:- 
 
-1. Javascript requests a track 
-2. Python responds and sends a random track ( track name and artist(s) ) from the dataset 
+1. Javascript requests a track.
+2. Python responds and sends a random track ( track name and artist(s) Info ) from the dataset.
 3. Javascript Uses the <a href = "https://www.discogs.com/developers">Discogs API</a> to fetch the track art.</p>
+
+<p>• When the user right swipe (Like) 3 or more songs, they can click the "recommend" button. <strong>Mercurial</strong> then analyzes the liked tracks and suggests 5 songs.</p>
 
 <br>
 
 ### Deployment :eyes:
+<p>• For the deployment part <strong>Mercurial</strong> uses <a href = "https://flask.palletsprojects.com/en/2.3.x/">"Flask"</a> which is a popular Python web framework that makes it easy to create web applications. Flask is based on Werkzeug WSGI toolkit and Jinja2 template engine. Using the "GET" & "POST" methods Python can communicate back and forth with Javascript.<p/>
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![Jinja](https://img.shields.io/badge/jinja-white.svg?style=for-the-badge&logo=jinja&logoColor=black)
+
+##
+
+<br>
 
 ## Contributions :anchor:
 
