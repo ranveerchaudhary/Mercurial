@@ -170,4 +170,4 @@ Email: ranveerchaudhary1000@gmail.com
 
 Portfolio Website: [https://ranveerchaudhary.github.io](https://ranveerchaudhary.github.io)
 
-Linkedin Profile: [https://www.linkedin.com/in/ranveer-chaudhary-785538166/](https://www.linkedin.com/in/ranveer-chaudhary-785538166/)
+Linkedin Profile: [https://www.linkedin.com/in/ranveerchaudhary1](https://www.linkedin.com/in/ranveerchaudhary1)
