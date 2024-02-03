@@ -166,7 +166,7 @@ Don't forget to give the project a star! Thanks again!
 
 <h2 id = "contact">Contact :mailbox_with_mail:</h2>
 
-Email: ranveerchaudhary1000@gmail.com
+Email: [ranveerchaudhary1000+github@gmail.com](ranveerchaudhary1000+github@gmail.com)
 
 Portfolio Website: [https://ranveerchaudhary.github.io](https://ranveerchaudhary.github.io)
 
