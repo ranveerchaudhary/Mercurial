@@ -1,0 +1,6 @@
+flask
+flask-cors
+mercurial
+pandas
+numpy
+scikit-learn
